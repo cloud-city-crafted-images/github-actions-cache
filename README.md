@@ -1,6 +1,6 @@
 # Cloud City Crafted GitHub Actions Container Images
 
-This repository contains the configuration and scripts needed to create container images for Cloud City Crafted continuous integration (CI) and runtime environments.
+This repository contains the configuration and scripts needed to create container images to emulate GitHub Actions for Cloud City Crafted test and continuous integration (CI) environments.
 
 ## ✨ Quick Start
 
@@ -11,16 +11,16 @@ Ensure you have [Docker](https://docs.docker.com/get-docker/) installed.
 To pull container images, run:
 
 ```shell
-docker pull ghcr.io/cloud-city-crafted-images/<IMAGE_NAME>:latest
+docker pull ghcr.io/cloud-city-crafted-images/github-actions-<ACTION>:latest
 ```
 
-And ta-da 🎉! You're ready to run Cloud City Crafted GitHub Actions images locally!
+And ta-da 🎉! You're ready to use Cloud City Crafted GitHub Actions images locally!
 
 ## 📦 Images
 
 | Image                | Available Tags | Included Packages                                            |
 | -------------------- | -------------- | ------------------------------------------------------------ |
-| github-actions-cache | `latest`, `v1` | [GitHub Actions Cache Packages](./cache/README.md#-packages) |
+| github-actions-cache | `latest`, `v1` | [GitHub Actions Cache Packages](./cache#-packages) |
 
 ## 🪪 License
 
