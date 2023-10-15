@@ -18,9 +18,9 @@ And ta-da 🎉! You're ready to use Cloud City Crafted GitHub Actions images loc
 
 ## 📦 Images
 
-| Image                | Available Tags | Included Packages                                            |
-| -------------------- | -------------- | ------------------------------------------------------------ |
-| github-actions-cache | `latest`, `v1` | [GitHub Actions Cache Packages](./cache#-packages) |
+| Image                                                                                                                   | Available Tags | Included Packages                                  |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
+| [github-actions-cache](https://github.com/cloud-city-crafted-images/github-actions/pkgs/container/github-actions-cache) | `latest`, `v1` | [GitHub Actions Cache Packages](./cache#-packages) |
 
 ## 🪪 License
 
