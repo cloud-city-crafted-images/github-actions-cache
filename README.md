@@ -27,3 +27,7 @@ This image can be used to emulate the [`actions/cache`](https://github.com/actio
 ## 🧑🏽‍💻 Contributing
 
 See [Cloud City Crafted Container Images Contributing Guide](https://github.com/cloud-city-crafted-images/.github-private/tree/main/profile).
+
+## 🪪 License
+
+This repository is [MIT licensed](./LICENSE).
