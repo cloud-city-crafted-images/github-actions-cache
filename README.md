@@ -4,7 +4,7 @@ This image can be used to emulate the [`actions/cache`](https://github.com/actio
 
 ## 🖥️ System Information
 
-- Base Image: [pytnhon:3.11-bullseye](https://mcr.microsoft.com/en-us/product/devcontainers/python)
+- Base Image: [python:3.11-bullseye](https://mcr.microsoft.com/en-us/product/devcontainers/python)
 - OS: Debian GNU/Linux 11
 - Codename: bullseye
 - Kernel: Linux version 6.4.16-linuxkit
